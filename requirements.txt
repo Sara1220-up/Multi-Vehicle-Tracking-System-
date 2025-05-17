@@ -1,0 +1,3 @@
+ultralytics==8.0.20
+norfair==2.2.0
+opencv-python
