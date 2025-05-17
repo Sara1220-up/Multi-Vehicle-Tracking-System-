@@ -1,0 +1,10 @@
+multi-vehicle-tracking-system/
+│
+├── main.py
+├── requirements.txt
+├── videos/
+│   ├── input.mp4
+│   └── output.mp4
+├── models/
+│   └── yolov8.pt               
+└── README.md
