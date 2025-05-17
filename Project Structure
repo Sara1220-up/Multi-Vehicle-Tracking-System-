@@ -1,6 +1,7 @@
 multi-vehicle-tracking-system/
 │
 ├── main.py
+├── output video 
 ├── requirements.txt
 ├── videos/
 │   ├── input.mp4
